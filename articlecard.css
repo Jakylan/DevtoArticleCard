@@ -1,0 +1,63 @@
+.img {
+    border-radius: 50%;
+}
+
+.title {
+    position: relative;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    bottom: 10px;
+    left: 12px;
+}
+
+.name {
+    position: relative;
+    color: gray;
+    font-size: 21px;
+    bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif 
+}
+
+.top {
+    display: flex;
+}
+
+.heart {
+    position: relative;
+    left: 2rem;
+}
+
+.number1 {
+    position: relative;
+    left: 2.5rem;
+    color: gray;
+}
+
+.message {
+    position: relative;
+    left: 3.5rem;
+}
+
+.number2 {
+    position: relative;
+    left: 4rem;
+    color: gray;
+}
+
+.hashtag {
+    position: relative;
+    font-size: 17px;
+    bottom: 20px;
+}
+
+.save-button {
+    position: relative;
+    left: 450px;
+    background-color: rgb(93, 93, 236);
+    color: white;
+    height: 40px;
+    width: 67px;
+    font-size: 20px;
+    border-radius: 12%;
+    bottom: 6px;
+}
